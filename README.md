@@ -1,10 +1,15 @@
-# 🤖 topic2linkedin_ai
+#  topic2linkedin_ai
 
 An autonomous AI agent that generates, evaluates, optimizes, and posts content on **LinkedIn** — powered by **LangChain**, **LangGrapg**, and intelligent workflow decision logic.
 
 ---
 
-## 🔍 Project Summary
+
+
+
+![output.png](attachment:output.png)
+
+##  Project Summary
 
 This project allows a user to simply provide a **topic**, and the AI takes care of:
 -  **Writing a compelling post**
@@ -26,18 +31,22 @@ All steps are done automatically, with no human input needed after giving the to
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
-- 🦜 **LangChain**
-- 🧠 **Together AI**
-- 🐍 **Python 3.10+**
-- 🔗 **Workflow state engine (custom logic)**
+-  **LangChain**
+-  **Together AI**
+-  **Python 3.10+**
+-  **Workflow state engine (custom logic)**
 
 ---
 
 ## Remeber to add and set all the api key of your Linkedin Oauth secerets and also set api key models
 
-## 📁 Folder Structure
+
+
+
+
+##  Folder Structure
 
 ```bash
 Project/
