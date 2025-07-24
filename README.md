@@ -6,8 +6,7 @@ An autonomous AI agent that generates, evaluates, optimizes, and posts content o
 
 
 
-
-![output.png](attachment:output.png)
+![agent graph representation image](output.png)
 
 ##  Project Summary
 
